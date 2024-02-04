@@ -16,8 +16,8 @@ body{
 }
 .box{
     background: #fff;
-    width: 20vw;
-    height: 20vw;
+    width: 450px;
+    height: 500px;
     border-radius: 50px;
     display: flex;
     flex-direction: column;
